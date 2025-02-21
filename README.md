@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sauravhota
-- 👀 I’m interested in ...almost anything
-- 🌱 I’m currently learning ...Data science and machine learning
-- 💞️ I’m looking to collaborate on ...Projects
+- 👀 I’m interested in ...sustainability, energy transition, decarbonization, renewable and clean energy.
+- 🌱 I’m currently learning ...Data science and machine learning for sustainable and energy transition analytics
+- 💞️ I’m looking to collaborate on ...advanced analytics, machine learning and AI projects based on renewable energy and sustainability. 
 - 📫 How to reach me ...hota.saurav@gmail.com
